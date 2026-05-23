@@ -22,4 +22,4 @@ def train_and_save_model(): # This is a dummy data to train the model, if you wi
 
 
 if __name__ == "__main__":
-    train_and_save_model()
+    train_and_save_model()
