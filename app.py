@@ -39,4 +39,4 @@ if __name__ == "__main__":
     host = "localhost" # Add this or your app will not run
     port = "Your port number" # Add this port or your app will not run
     print(f"Running on http://{host}:{port}/")
-    app.run(debug=True, host=host, port=port)
+    app.run(debug=True, host=host, port=port)
